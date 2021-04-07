@@ -1,80 +1,37 @@
-# Jekyll Instagram Portfolio Theme
+# Adam Blog is a minimal clear theme for Jekyll
 
-Clean, minimalistic and responsive portfolio theme for Jekyll powered by Bootstrap 4.
-For the portfolio section is used Instagram widget, but you can easily update it with another content source.
+![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
 
-## Live Demo
+## Demo
 
-https://portfolio-central.github.io/jekyll-instagram-portfolio-theme/
-![Jekyll Instagram Portfolio Theme](./screenshot.png "Jekyll Instagram Portfolio Theme")
+Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
 
-## Showcase
+The main page would look like this:
 
-The best usage examples:
+![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
 
-- [Pavel Guzenko](http://guzenko.org.ua)
-- [Victor Mikitenko](https://mikitenko-org-ua.github.io/site/)
-- [Anthony Fuentes](http://anthonyfuentes.us/)
-- [Serhii Grytsyshyn](https://grserhii.github.io/)
+The post page would look like this:
 
-To add your example: fork the repo, add new line to the list above and create a pull request.
+![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
 
-## Featured on
+## Features
 
-- [Template.net](https://www.template.net/cms-templates/jekyll/jekyll-themes-templates/)
-- [JekyllThemes.org](http://jekyllthemes.org/themes/instagram-portfolio-theme/)
-
-## Powered by
-
-- [Jekyll](https://jekyllrb.com/)
-- [Bootstrap 4](http://v4-alpha.getbootstrap.com/)
-- [jQuery](https://jquery.com/)
-- [SnapWidget](https://snapwidget.com)
-- [Google Fonts: Lobster](https://fonts.google.com/specimen/Lobster)
+- [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [MailChimp](https://mailchimp.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
 
-## Installation
-Install Jekyll:
+## Installation:
 
-```
-gem install jekyll bundler
-```
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
-Install bundle dependiencies:
+## License
 
-```
-bundle install
-```
+GNU General Public License v3.0
 
-When finished, run the dev server:
+## Donate
 
-```
-bundle exec jekyll serve
-```
-
-or just:
-
-```
-jekyll serve
-
-```
-To stop the server, use `CTRL+C`.
-
-## Building front-end assets: styles and scripts
-
-Install module dependencies:
-
-```
-npm install
-```
-
-Run the build script to generate updated front-end assets:
-
-```
-npm run build
-```
-
-Watch for changes and automatically rebuild assets (`CTRL+C` to stop):
-```
-npm run watch
-```
+<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
+<p align="center"><b>Thank you for your support ❤️</b></p>
